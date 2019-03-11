@@ -1,0 +1,17 @@
+﻿Build started 2013-01-24 18:23:27.
+     1>Project "c:\Users\Ryszard\Documents\framework02\lib\angelscript\projects\msvc10\angelscript.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\angelscript.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         angelscript.vcxproj -> c:\Users\Ryszard\Documents\framework02\lib\angelscript\projects\msvc10\../../lib\angelscriptd.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\angelscript.unsuccessfulbuild".
+         Touching "Debug\angelscript.lastbuildstate".
+     1>Done Building Project "c:\Users\Ryszard\Documents\framework02\lib\angelscript\projects\msvc10\angelscript.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11

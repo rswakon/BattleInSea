@@ -1,0 +1,39 @@
+﻿Build started 11/03/2019 23:48:17.
+     1>Project "D:\damp_S\damp_prog\BattleInSea\Source\BattleInSea.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\BattleInSea.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\BattleInSea.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\damp_S\damp_prog\BattleInSea\Source\ParserXML /ID:\damp_S\damp_prog\BattleInSea\Source\ParserXML\Tinyxml /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _CONSOLE /D TIXML_USE_STL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Framework.cpp Game.cpp GameEvent.cpp GameInterface.cpp Globals.cpp LibTextures.cpp Library.cpp Loader.cpp Main.cpp
+         Main.cpp
+         Loader.cpp
+         Library.cpp
+         LibTextures.cpp
+         Globals.cpp
+         GameInterface.cpp
+         GameEvent.cpp
+         Game.cpp
+         Framework.cpp
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\damp_S\damp_prog\BattleInSea\Debug\BattleInSea.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" SDL.lib SDLmain.lib SDL_image.lib SDL_ttf.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\BattleInSea.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\damp_S\damp_prog\BattleInSea\Debug\BattleInSea.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\damp_S\damp_prog\BattleInSea\Debug\BattleInSea.lib" /MACHINE:X86 Debug\Framework.obj
+         Debug\Game.obj
+         Debug\GameEvent.obj
+         Debug\GameInterface.obj
+         Debug\Globals.obj
+         Debug\LibTextures.obj
+         Debug\Library.obj
+         Debug\Loader.obj
+         Debug\Main.obj
+         BattleInSea.vcxproj -> D:\damp_S\damp_prog\BattleInSea\Debug\BattleInSea.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Yes" /manifest Debug\BattleInSea.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\BattleInSea.unsuccessfulbuild".
+         Touching "Debug\BattleInSea.lastbuildstate".
+     1>Done Building Project "D:\damp_S\damp_prog\BattleInSea\Source\BattleInSea.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.69
